@@ -16,6 +16,7 @@ First print the number of even elements, then the number of odd elements separat
 ### Sample Input 0
 
 5
+
 1 2 3 4 5
 ### Sample Output 0
 
@@ -23,6 +24,7 @@ First print the number of even elements, then the number of odd elements separat
 ### Sample Input 1
 
 6
+
 0 4 0 6 5 3
 ### Sample Output 1
 
